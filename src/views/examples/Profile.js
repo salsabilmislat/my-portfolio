@@ -108,7 +108,7 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
+                          <span className="heading">100+</span>
                           <span className="description">Friends</span>
                         </div>
                         <div>
@@ -116,7 +116,7 @@ class Profile extends React.Component {
                           <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
+                          <span className="heading">500+</span>
                           <span className="description">Comments</span>
                         </div>
                       </div>
@@ -137,7 +137,7 @@ class Profile extends React.Component {
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Jordan
+                      University of Jordan - ASAC
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
